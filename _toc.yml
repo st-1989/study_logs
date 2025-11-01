@@ -5,3 +5,4 @@ chapters:
   - file: sample
   - file: posts/welcome
   - file: posts/first-blog-post
+  - file: posts/text_embed
