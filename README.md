@@ -2,6 +2,8 @@
 
 A blog built with [Jupyter Book](https://jupyterbook.org/) to document what I learn. This blog is automatically deployed to GitHub Pages using GitHub Actions.
 
+https://st-1989.github.io/study_logs/
+
 ## 🚀 Features
 
 - **Jupyter Book**: Create beautiful, publication-quality content
